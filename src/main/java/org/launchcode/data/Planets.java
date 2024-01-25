@@ -1,4 +1,4 @@
-package org.launchcode.models;
+package org.launchcode.data;
 
 public enum Planets {
     // list the planets here.
